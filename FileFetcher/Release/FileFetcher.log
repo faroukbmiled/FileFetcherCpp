@@ -1,8 +1,9 @@
 ﻿  FileFetcher.cpp
   Unknown compiler version - please run the configure tests and report the results
+C:\Users\Administrator\source\repos\FileFetcher\FileFetcher\FileFetcher.cpp(111,51): warning C4244: 'argument': conversion from 'std::streamsize' to 'const unsigned int', possible loss of data
   Generating code
-  10 of 626 functions ( 1.6%) were compiled, the rest were copied from previous compilation.
-    1 functions were new in current compilation
-    42 functions had inline decision re-evaluated but remain unchanged
+  5 of 968 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   FileFetcher.vcxproj -> C:\Users\Administrator\source\repos\FileFetcher\Release\FileFetcher.exe
